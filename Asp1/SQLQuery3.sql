@@ -1,0 +1,1 @@
+select * from std_info
